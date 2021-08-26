@@ -5,5 +5,5 @@ install(){
     echo $(pip3 install -r pip-install)
 }
 install
-echo "安装成功"
+echo "安装成功✅"
 
